@@ -13,7 +13,9 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
 # Status
 
-...
+As of 2015-jan-05 the map contains the single metro line, [wikipedia](https://en.wikipedia.org/wiki/Brescia_Metro).
+
+See [Map::Metro::Plugin::Map::Brescia::Lines](https://metacpan.org/pod/Map::Metro::Plugin::Map::Brescia::Lines).
 
 # AUTHOR
 

@@ -38,7 +38,15 @@ See L<Map::Metro> for usage information.
 
 =head1 Status
 
-...
+As of 2015-jan-05 the map contains the single metro line, L<wikipedia|https://en.wikipedia.org/wiki/Brescia_Metro>.
+
+See L<Map::Metro::Plugin::Map::Brescia::Lines>.
+
+=begin HTML
+
+<p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Brescia/master/static/images/brescia.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Brescia/master/static/images/brescia.png" style="max-width: 600px" /></a></p>
+
+=end HTML
 
 =head1 AUTHOR
 
