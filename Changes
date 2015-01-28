@@ -1,4 +1,18 @@
 Revision history for Map-Metro-Plugin-Map-Brescia
 
 {{$NEXT}}
-   - Initial release
+ [Bug Fixes]
+ - Lines.pod replaces Lines.pm, and fixes version problem.
+
+ [Documentation]
+ - Cleanup, rebuilt with podweaver.
+
+ [Meta]
+ - Now uses @Author::CSSON dist zilla bundle, expanded.
+
+ [Requirements]
+ - Bumped Map::Metro to 0.2206.
+
+0.1000 2015-01-05T21:44:40Z CET
+ - Initial release
+
